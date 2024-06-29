@@ -3,7 +3,7 @@
 I am a passionate developer with a focus on web development. I enjoy creating innovative solutions and working on exciting projects. Currently, I am a student and constantly expanding my skills in various technologies.
 
 🌱 I’m currently learning:
-- Advanced JavaScript techniques
+- Advanced JavaScript Techniques
 - Frameworks such as React and React native
 - Database management and optimization
 
