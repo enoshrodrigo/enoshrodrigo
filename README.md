@@ -10,7 +10,7 @@ I am a passionate software developer specializing in full-stack web development.
 - 🌱 I’m currently learning advanced JavaScript techniques and exploring frameworks such as React and React Native.
 - 👯 I’m looking to collaborate on open-source projects that focus on web development and AI integration.
 - 💬 Ask me about web development, AI chatbots, and database optimization.
-- 📫 How to reach me: [enoshrodrigo@example.com](mailto:enoshrodrigo@gmail.com)
+- 📫 How to reach me: [enoshrodrigo@gmail.com](mailto:enoshrodrigo@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and continuously improving my skills.
 
