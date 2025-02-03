@@ -40,7 +40,7 @@ I am a passionate software developer specializing in full-stack web development.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enoshrodrigo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enosh-rodrigo)
 [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.facebook.com/enoshrodrigo/)
 
 ---
