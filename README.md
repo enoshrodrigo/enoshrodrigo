@@ -6,7 +6,6 @@
 
 I am a passionate software developer specializing in full-stack web development. I enjoy creating innovative solutions and continuously expanding my skill set to stay abreast of emerging technologies.
 
-- 🔭 I’m currently working on enhancing the [Heaven Guider](https://github.com/enoshrodrigo/haven-app-backend) project, an AI-powered chatbot designed to assist tourists exploring Sri Lanka.
 - 🌱 I’m currently learning advanced JavaScript techniques and exploring frameworks such as React and React Native.
 - 👯 I’m looking to collaborate on open-source projects that focus on web development and AI integration.
 - 💬 Ask me about web development, AI chatbots, and database optimization.
